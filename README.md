@@ -49,5 +49,31 @@ architecture, the PCB can download and verify new ﬁrmware versions in the back
 MQTT) and perform a seamless "hot-swap," ensuring the lift remains operational with the 
 latest safety patches and feature sets without requiring manual on-site ﬂashing.
 
-## Contact 
 ## TODO 
+## Notes
+
+
+* All application notes will be shared soon
+
+## Authors
+
+- [@mazen-daghari](https://www.github.com/mazen-daghari)
+
+
+## License
+
+This project is protected under the following license terms:
+
+
+Copyright © 2026 Mazen Daghari. All rights reserved.
+
+This software, including all source code, assets, and documentation, is the intellectual property of Mazen Daghari and is protected by international copyright laws.
+
+Unauthorized copying, distribution, modification, reuse, or incorporation into other software or hardware projects is strictly prohibited without the express written permission of the author.
+
+This project is licensed for private and non-commercial use only. Commercial use, redistribution, or derivative works are not permitted.
+
+Violators may be subject to civil and criminal penalties as provided by law.
+
+For licensing inquiries, collaborations, or permissions, please contact:
+📧dagmazen@gmail.com
