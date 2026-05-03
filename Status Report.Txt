@@ -1,0 +1,10 @@
+Output: IPC-2581 Files
+Type  : IPC2581
+From  : Variant [[No Variations]] of Project [Cargo_lift_stm32.PrjPcb]
+   Generated File[Cargo_lift_stm32_pcb1.cvg]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 09:57:29 On 03/05/2026
