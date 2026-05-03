@@ -1,6 +1,6 @@
 # IOT_Board_STM32
 IOT_Board_STM32
-![Logo](https://github.com/mazen-daghari/Mazen_4dw/blob/77e424a2dfffa17c5dbb93baea33e0d8d2a60c1e/logo.png)
+![PCB](https://github.com/mazen-daghari/IOT_Board_STM32/blob/01ec224e345507b0d4648610fb0000b45d2e425b/IOT-1.png)
 The transition from traditional mechanical relays to smart, connected infrastructure requires 
 a fusion of ruggedized hardware and sophisticated data protocols. The following breakdown 
 explores the architectural layers of our custom PCB solution, detailing how specialized modu-
